@@ -1,0 +1,24 @@
+{
+  "name": "doc-kkb-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/doc-kkb-fe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/doc-kkb-fe/issues"
+  },
+  "homepage": "https://github.com/weisuoke/doc-kkb-fe#readme",
+  "dependencies": {
+    "vuepress": "^1.4.1"
+  }
+}
